@@ -1,0 +1,13 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "/home/admine/LPC1768-MinimalSDK/includes"
+            ],
+            "defines": [],
+            "intelliSenseMode": "clang-x64"
+        }
+    ],
+    "version": 4
+}

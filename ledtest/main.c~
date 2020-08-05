@@ -1,8 +1,0 @@
-#include<LPC17xx.h>
-void main()
-{
-LPC_GPIO1->FIODIR=(1<<29);
-LPC_GPIO1->FIOCLR=(1<<29);
-while(1);
-}
-
